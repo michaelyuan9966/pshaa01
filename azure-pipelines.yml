@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Windows Container'
+  vmImage: 'Windows'
 
 steps:
 - script: echo Hello, world!
